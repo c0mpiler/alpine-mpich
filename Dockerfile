@@ -1,4 +1,4 @@
-FROM c0mpiler/alpine-base:1.0
+FROM c0mpiler/alpine-base:latest
 
 MAINTAINER Harsha Krishnareddy <c0mpiler@outlook.com>
 
